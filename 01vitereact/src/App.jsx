@@ -1,5 +1,6 @@
 
 import './App.css'
+import Chai from './chai'
 
 function App() {
   
@@ -7,6 +8,7 @@ function App() {
   return (
     <>
     <h1>hello its viteapp | Reetesh Mule </h1>
+    <Chai/>
     </>
   )
 }
